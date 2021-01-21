@@ -1,0 +1,21 @@
+body {
+  background-color: #e8ecef;
+}
+
+.centered {
+  /* display: flex; */
+  padding-top: 200px;
+  text-align: center;
+}
+.imgf {
+  border: 2px solid rgb(85, 82, 82);
+}
+
+.logout {
+  margin: 5px 10px;
+}
+
+.name {
+  color: rgb(53, 52, 52);
+  margin: 10px 10px;
+}
