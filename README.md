@@ -6,7 +6,7 @@
 2) We modified the sum_global function to add if the arguments could be either list or integer.
   -The sum of a list object would be the sum of all elements
 3) We modified the sum_global function to add if the arguments could be either integer or dict
-4) Then We created a power_sum function which can perform addition on any no of argument of different data types
+4) Then We created a power_sum function which can perform addition on any no of argument of different data types.
   -We created sub sections for solving this problem:
   -Created test cases for the problem
   - Thought of an approach
@@ -19,9 +19,9 @@
  The program does not take any input as it checks the returend value with the corrrect answer to check if code passes the test cases or not.
  
  ## Output
- The output consist of a line stating the function called and the arguments passed
- Following some lines print True or False depending on the test case was passes or not.
- The last section is Benchmarking where the results has been shown.
+ -The output consist of a line stating the function called and the arguments passed
+ -Following some lines print True or False depending on the test case was passes or not.
+ -The last section is Benchmarking where the results has been shown.
  
  ## Run
  Open it in any code editor and run the file in python compiler.
